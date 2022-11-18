@@ -1,0 +1,5 @@
+q = input("Masukkan nama Anda :")
+w = input("Masukkan nama matakuliah:")
+e = input("Masukkan grub anda:")
+print("Haloo!", q*2)
+print("Anda tergabung dalam kelas", w, "pada grub", e)
